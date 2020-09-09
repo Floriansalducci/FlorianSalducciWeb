@@ -68,7 +68,7 @@ header {
 	background-color: rgba(255, 255, 255, 1);
 	color: #000000;
 	position: relative;
-	background-image: url("../img/whitebg.jpg");
+	background-image: url("../img/code.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -115,6 +115,7 @@ h1, h2, h3, h4 {
 h1, h2 {
 	font-family: "Sarbacane", Impact, 'Montserrat', sans-serif;
 	font-size: 3.5rem;
+	color: white;
 	font-weight: normal;
 	margin-bottom: 0.2rem;
 }
@@ -150,8 +151,8 @@ a:hover {
 	display: inline-block;
 	padding: 1.5rem 1rem;
 	font-size: 1.3rem;
-	background-color:lightsteelblue;
-	color: #FFFFFF;
+	background-color:black;
+	color: white;
     box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.3);
 }
 
